@@ -1,2 +1,0 @@
-# capabl-labmanual
-capabl
