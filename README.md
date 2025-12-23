@@ -49,21 +49,21 @@ The workflow follows a standard Retrieval-Augmented Generation pipeline:
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-- git https://github.com/rxxkie-git/capabl-labmanual.git
+git clone https://github.com/rxxkie-git/capabl-labmanual.git
 cd capabl-labmanual
 
 ### 2️⃣ Create Virtual Environment
 # Create the environment
-- python -m venv .venv
+python -m venv .venv
 
 # Activate on Windows:
-- .venv\Scripts\activate   
+.venv\Scripts\activate   
 
 # Activate on Mac/Linux:
-- source .venv/bin/activate
+source .venv/bin/activate
 
 ### 3️⃣ Install Dependencies
-- pip install -r requirements.txt
+pip install -r requirements.txt
 
 ### 4️⃣ Setup Ollama
 1. Download and install from ollama.com.
@@ -74,9 +74,8 @@ ollama pull phi3:mini
 
 ## ▶️ Running the Application
 
-- streamlit run app.py
-- 
-- Open your browser to http://localhost:8501.
+streamlit run app.py
+Open your browser to http://localhost:8501.
 
 ---
 
@@ -104,6 +103,12 @@ ollama pull phi3:mini
 - [ ] Navigation: Easy experiment-wise jump links in the UI.
 
 ---
+
+## 🎥 Demonstration Video
+- Gdrive link: Demo Video[https://drive.google.com/file/d/1k0jz4DtQ8cCpHqrTsLOECoYORQsWnUo5/view?usp=sharing]. 
+- Check the demo_video folder.
+
+--- 
 
 ### ✅ Summary
 Lab Manual Assistant demonstrates how AI can be used responsibly in education by combining document retrieval with local reasoning, providing a free and private solution for science and engineering students.
