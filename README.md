@@ -49,8 +49,8 @@ The workflow follows a standard Retrieval-Augmented Generation pipeline:
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/cu-sanjay/PDF-GPT.git
-cd PDF-GPT
+git https://github.com/rxxkie-git/capabl-labmanual.git
+cd capabl-labmanual
 
 ### 2️⃣ Create Virtual Environment
 # Create the environment
