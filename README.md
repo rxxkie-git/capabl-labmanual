@@ -75,7 +75,8 @@ ollama pull phi3:mini
 ## ▶️ Running the Application
 
 - streamlit run app.py
-Open your browser to http://localhost:8501.
+- 
+- Open your browser to http://localhost:8501.
 
 ---
 
