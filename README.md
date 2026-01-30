@@ -105,7 +105,7 @@ Open your browser to http://localhost:8501.
 ---
 
 ## 🎥 Demonstration Video
-- Gdrive link: [Demo Video](https://drive.google.com/file/d/1k0jz4DtQ8cCpHqrTsLOECoYORQsWnUo5/view?usp=sharing). 
+- Gdrive link: [Demo Video](https://drive.google.com/file/d/1x-MC4z5krzGehNqvHE4gOLefQnvQCpDJ/view?usp=sharing). 
 - Check the demo_video folder.
 
 --- 
