@@ -104,7 +104,8 @@ Open your browser to http://localhost:8501.
 
 ---
 
-## 🎥 Demonstration Video
+## 🎥 Demonstrations and Video
+- Presentation: [PPT](https://docs.google.com/presentation/d/1z4c6hV7sj7Y7xuWBjEFxj5kbcZvJWZc75fHYp46OtHw/edit?usp=sharing)
 - Gdrive link: [Demo Video](https://drive.google.com/file/d/1x-MC4z5krzGehNqvHE4gOLefQnvQCpDJ/view?usp=sharing). 
 - Check the demo_video folder.
 
